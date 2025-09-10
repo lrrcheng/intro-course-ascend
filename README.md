@@ -30,6 +30,6 @@ intro-course-ascend/
 
 ## Getting Started
 
-1. **Fork this repository** - Click the "Fork" button in the top right
-2. **Clone your fork** locally
-3. **Follow the instructions** in `exercises/EXERCISE_INSTRUCTIONS.md`
+1. **Fork this repository** - Click the "Fork" button in the top right.
+2. **Clone your fork** locally.
+3. **Follow the instructions** in `exercises/EXERCISE_INSTRUCTIONS.md`.
